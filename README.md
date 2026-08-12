@@ -1,1 +1,1 @@
-# heakth_insurance_prediction
+# health_insurance_prediction
